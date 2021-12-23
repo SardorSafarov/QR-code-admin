@@ -12,6 +12,6 @@ class UserQayerda : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding= ActivityUserQayerdaBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+            //Sardor
     }
 }
